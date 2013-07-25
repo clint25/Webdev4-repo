@@ -4149,9 +4149,3 @@ td.visible-print {
     display: none !important;
   }
 }
-header {
-  float: left;
-  width: 100%;
-  height: 50px;
-  background: #ff2200;
-}
